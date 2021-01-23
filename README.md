@@ -1,0 +1,1 @@
+# ru-de_vocabulary_training_app
